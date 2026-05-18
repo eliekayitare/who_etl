@@ -21,7 +21,7 @@ Covers 195 countries from 2000 to 2024.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/who_etl.git
+git clone https://github.com/eliekayitare/who_etl.git
 cd who_etl
 ```
 
